@@ -5,7 +5,7 @@
     <link>https://example.com/tag/flowers/</link>
       <atom:link href="https://example.com/tag/flowers/index.xml" rel="self" type="application/rss+xml" />
     <description>flowers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>flowers</title>
@@ -15,7 +15,7 @@
     <item>
       <title>День 1</title>
       <link>https://example.com/post/1post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/1post/</guid>
       <description>&lt;h2 id=&#34;мой-скромный-рейтинг-отличных-многолетних-цветов-для-дачи&#34;&gt;Мой скромный рейтинг отличных многолетних цветов для дачи&lt;/h2&gt;
 &lt;ol&gt;
@@ -26,12 +26,28 @@
 &lt;li&gt;Лилия &amp;ndash; очаровательный цветок, который смотрится очень богато на клумбе. И все же не стоит забывать, что они имеют резкий аромат и вряд ли вам удатся полюбоваться ими дома в случае, если вы захотите, потому что запах будет стоять во всей квартире.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;что-же-касается-меня&#34;&gt;Что же касается меня?&lt;/h2&gt;
-&lt;p&gt;В этот раз я ездила на цветочную базу не для того, чтобы обзавестись новыми жителями для своего сада. Мне было необходимо выбрать цветы для участка у подъезда. Да-да, я занимаюсь благоустройством и этой территории. На чем же я остановилась? сиреневые петуньи для кашпо на козырьке подъезда, анютины глазки для клумбы у скамейки. А также в подарок консьержке, которая занимается благоустройством палисадника у подъезда взяла безумно красивую розовую астильбу!
-image:
-caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://example.com/Users/dusya/blog/content/post/1post/1post.jpg&#34;&gt;Красота на цветочной базе&lt;/a&gt;&amp;rsquo;
-focal_point: &amp;rsquo;&#39;
-placement: 2
-preview_only: false&lt;/p&gt;
+&lt;p&gt;В этот раз я ездила на цветочную базу не для того, чтобы обзавестись новыми жителями для своего сада. Мне было необходимо выбрать цветы для участка у подъезда. Да-да, я занимаюсь благоустройством и этой территории. На чем же я остановилась? сиреневые петуньи для кашпо на козырьке подъезда, анютины глазки для клумбы у скамейки. А также в подарок консьержке, которая занимается благоустройством палисадника у подъезда взяла безумно красивую розовую астильбу!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/Users/dusya/blog/content/post/1post/1post.jpg&#34; alt=&#34;Красота на цветочной базе&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
