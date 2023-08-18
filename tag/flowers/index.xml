@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flowers | Academic</title>
+    <link>https://example.com/tag/flowers/</link>
+      <atom:link href="https://example.com/tag/flowers/index.xml" rel="self" type="application/rss+xml" />
+    <description>flowers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>flowers</title>
+      <link>https://example.com/tag/flowers/</link>
+    </image>
+    
+    <item>
+      <title>Про цветочную базу</title>
+      <link>https://example.com/post/1post/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/1post/</guid>
+      <description>&lt;h2 id=&#34;мой-скромный-рейтинг-отличных-многолетних-цветов-для-дачи&#34;&gt;Мой скромный рейтинг отличных многолетних цветов для дачи&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Пионы &amp;ndash; незаменимый атрибут любого любителя садоводства. Считаю, что это великолепные и красивые до невозможности цветы! Даже после того, как пион оцветет, он не перестанет радовать вас своими густыми зелеными листьями.&lt;/li&gt;
+&lt;li&gt;Тюльпаны &amp;ndash; любимцы многих садовников, ведь они неприхотливы в уходе. Я тоже уверена, что при гармоничном расположении и выборе цвета, они станут милым дополнением к вашему садовому ансамблю.&lt;/li&gt;
+&lt;li&gt;Крокусы &amp;ndash; находка для вас, если вы хотите сразу после таяния снега обнаружить у себя на крыльце ростки цветочков. К концу мая, увы, их красивые синие, белые и желтые бутоны оцветают, но они как раз походят для того, чтобы радовать вас прохладными апрельскими деньками.&lt;/li&gt;
+&lt;li&gt;Флоксы &amp;ndash; неприхотливые милые цветочки. Хорошо растут как на южной, так и на северной стороне, где обычно я их и высаживаю.&lt;/li&gt;
+&lt;li&gt;Лилия &amp;ndash; очаровательный цветок, который смотрится очень богато на клумбе. И все же не стоит забывать, что они имеют резкий аромат и вряд ли вам удатся полюбоваться ими дома в случае, если вы захотите, потому что запах будет стоять во всей квартире.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;что-же-касается-меня&#34;&gt;Что же касается меня?&lt;/h2&gt;
+&lt;p&gt;В этот раз я ездила на цветочную базу не для того, чтобы обзавестись новыми жителями для своего сада. Мне было необходимо выбрать цветы для участка у подъезда. Да-да, я занимаюсь благоустройством и этой территории. На чем же я остановилась? сиреневые петуньи для кашпо на козырьке подъезда, анютины глазки для клумбы у скамейки. А также в подарок консьержке, которая занимается благоустройством палисадника у подъезда взяла безумно красивую розовую астильбу!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/1post/1post.JPG&#34; alt=&#34;Красота на цветочной базе&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
