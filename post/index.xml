@@ -116,7 +116,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-827163945&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-981562347&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -126,7 +126,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-827163945&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-981562347&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -480,7 +480,7 @@ Crash --&gt; [*]
 &lt;/ol&gt;
 &lt;h2 id=&#34;что-же-касается-меня&#34;&gt;Что же касается меня?&lt;/h2&gt;
 &lt;p&gt;В этот раз я ездила на цветочную базу не для того, чтобы обзавестись новыми жителями для своего сада. Мне было необходимо выбрать цветы для участка у подъезда. Да-да, я занимаюсь благоустройством и этой территории. На чем же я остановилась? сиреневые петуньи для кашпо на козырьке подъезда, анютины глазки для клумбы у скамейки. А также в подарок консьержке, которая занимается благоустройством палисадника у подъезда взяла безумно красивую розовую астильбу!
-mage:
+image:
 caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://example.com/Users/dusya/blog/content/post/1post/1post.jpg&#34;&gt;Красота на цветочной базе&lt;/a&gt;&amp;rsquo;
 focal_point: &amp;rsquo;&#39;
 placement: 2
