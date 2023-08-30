@@ -65,16 +65,9 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/1post/image/1_hu0a87fc95b2ca3f183e6ca55f40840e16_3203775_6e22d7b8f7f3c9a5a1783a4bd59ff398.webp 400w,
-               /post/1post/image/1_hu0a87fc95b2ca3f183e6ca55f40840e16_3203775_8f7cc3295403ab971b69e386bfde3073.webp 760w,
-               /post/1post/image/1_hu0a87fc95b2ca3f183e6ca55f40840e16_3203775_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/1post/image/1_hu0a87fc95b2ca3f183e6ca55f40840e16_3203775_6e22d7b8f7f3c9a5a1783a4bd59ff398.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;428&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;1post/featured.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:001 width=70%}&lt;/p&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -182,7 +175,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-789524613&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-623875941&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -192,7 +185,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-789524613&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-623875941&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
