@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formalization | Academic</title>
+    <link>https://example.com/tag/formalization/</link>
+      <atom:link href="https://example.com/tag/formalization/index.xml" rel="self" type="application/rss+xml" />
+    <description>formalization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>formalization</title>
+      <link>https://example.com/tag/formalization/</link>
+    </image>
+    
+    <item>
+      <title>Оформление отчета.</title>
+      <link>https://example.com/post/6post/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/6post/</guid>
+      <description>&lt;h2 id=&#34;отчет-является-основным-документом-обучающегося-отражающим-выполненную-работу-и-приобретенные-компетенции&#34;&gt;Отчет является основным документом обучающегося, отражающим выполненную работу и приобретенные компетенции&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Отчет должен содержать:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Титульный лист&lt;/li&gt;
+&lt;li&gt;Содержание&lt;/li&gt;
+&lt;li&gt;Введение&lt;/li&gt;
+&lt;li&gt;Основную часть&lt;/li&gt;
+&lt;li&gt;Заключение&lt;/li&gt;
+&lt;li&gt;Список используемых источников&lt;/li&gt;
+&lt;li&gt;Приложения&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Объем отчета должен составлять 10–15 листов (шрифт – Times New Roman, размер
+шрифта – 13-14, все поля – 2 см, отступ - 1 см, выравнивание – по ширине, таблицы и схемы располагаются по тексту и нумеруются по разделам). Количество приложений не ограничивается и в указанный объем не включается.&lt;/p&gt;
+&lt;h2 id=&#34;как-оформлять-отчет&#34;&gt;Как оформлять отчет?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Перед выполнением работы обычно уже есть поставленная цель, поэтому ее и следует записать в отчет. Главное корректно, грамотно и кратко ее сформулировать.&lt;/li&gt;
+&lt;li&gt;На основе цели перед Вами выдвигаются (или Вы сами составляете) задачи, которые необходимо выполнить, чтобы достичь желаемого результата. Задачи лучше написать в отчете под отельными номерами (также можно выделять подпункты, если требуется).&lt;/li&gt;
+&lt;li&gt;В теоретическом введении надо написать информацию, связанную с Вашей работой. Это могут быть ключевые определения вместе с примерами или же просто описание какого-либо процесса/действия/объекта.&lt;/li&gt;
+&lt;li&gt;Далее Вам нужно описать все этапы работы (иногда давая пояснения), желательно подкреплять эти этапы картинками (их нужно подписать и расставить ссылки на них в нужных местах).&lt;/li&gt;
+&lt;li&gt;Итоги формулируются в соответствии с целью. Они тоже должны быть достаточно краткими.&lt;/li&gt;
+&lt;li&gt;Источники, откуда Вы брали информацию для теоретического введения, необходимо указать в конце Вашего отчета (они должны быть оформлены по ГОСТу).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;6post/featured.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
