@@ -72,6 +72,20 @@
                 href="https://dishubnyakova.github.io/tag/programming/"
                 />
   </url><url>
+    <loc>https://dishubnyakova.github.io/post/10post/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://dishubnyakova.github.io/ru/post/10post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://dishubnyakova.github.io/post/10post/"
+                />
+  </url><url>
     <loc>https://dishubnyakova.github.io/category/study/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,20 +112,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://dishubnyakova.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://dishubnyakova.github.io/post/10post/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://dishubnyakova.github.io/ru/post/10post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://dishubnyakova.github.io/post/10post/"
                 />
   </url><url>
     <loc>https://dishubnyakova.github.io/category/days/</loc>
