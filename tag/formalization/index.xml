@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>formalization | Daria Shubnyakova</title>
-    <link>https://example.com/tag/formalization/</link>
-      <atom:link href="https://example.com/tag/formalization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dishubnyakova.github.io/tag/formalization/</link>
+      <atom:link href="https://dishubnyakova.github.io/tag/formalization/index.xml" rel="self" type="application/rss+xml" />
     <description>formalization</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dishubnyakova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>formalization</title>
-      <link>https://example.com/tag/formalization/</link>
+      <link>https://dishubnyakova.github.io/tag/formalization/</link>
     </image>
     
     <item>
       <title>Оформление отчета.</title>
-      <link>https://example.com/post/6post/</link>
+      <link>https://dishubnyakova.github.io/post/6post/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/6post/</guid>
+      <guid>https://dishubnyakova.github.io/post/6post/</guid>
       <description>&lt;h2 id=&#34;отчет-является-основным-документом-обучающегося-отражающим-выполненную-работу-и-приобретенные-компетенции&#34;&gt;Отчет является основным документом обучающегося, отражающим выполненную работу и приобретенные компетенции&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Отчет должен содержать:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
