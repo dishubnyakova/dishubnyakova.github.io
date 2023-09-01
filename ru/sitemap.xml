@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://dishubnyakova.github.io/ru/categories/</loc>
-    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -42,6 +42,76 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://dishubnyakova.github.io/ru/categories/"
+                />
+  </url><url>
+    <loc>https://dishubnyakova.github.io/ru/post/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://dishubnyakova.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://dishubnyakova.github.io/ru/post/"
+                />
+  </url><url>
+    <loc>https://dishubnyakova.github.io/ru/tag/programming/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://dishubnyakova.github.io/tag/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://dishubnyakova.github.io/ru/tag/programming/"
+                />
+  </url><url>
+    <loc>https://dishubnyakova.github.io/ru/category/study/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://dishubnyakova.github.io/category/study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://dishubnyakova.github.io/ru/category/study/"
+                />
+  </url><url>
+    <loc>https://dishubnyakova.github.io/ru/tags/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://dishubnyakova.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://dishubnyakova.github.io/ru/tags/"
+                />
+  </url><url>
+    <loc>https://dishubnyakova.github.io/ru/post/10post/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://dishubnyakova.github.io/post/10post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://dishubnyakova.github.io/ru/post/10post/"
                 />
   </url><url>
     <loc>https://dishubnyakova.github.io/ru/category/days/</loc>
@@ -72,34 +142,6 @@
                 href="https://dishubnyakova.github.io/ru/tag/flowers/"
                 />
   </url><url>
-    <loc>https://dishubnyakova.github.io/ru/post/</loc>
-    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://dishubnyakova.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://dishubnyakova.github.io/ru/post/"
-                />
-  </url><url>
-    <loc>https://dishubnyakova.github.io/ru/tags/</loc>
-    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://dishubnyakova.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://dishubnyakova.github.io/ru/tags/"
-                />
-  </url><url>
     <loc>https://dishubnyakova.github.io/ru/post/9post/</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,34 +154,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://dishubnyakova.github.io/ru/post/9post/"
-                />
-  </url><url>
-    <loc>https://dishubnyakova.github.io/ru/tag/programming/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://dishubnyakova.github.io/tag/programming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://dishubnyakova.github.io/ru/tag/programming/"
-                />
-  </url><url>
-    <loc>https://dishubnyakova.github.io/ru/category/study/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://dishubnyakova.github.io/category/study/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://dishubnyakova.github.io/ru/category/study/"
                 />
   </url><url>
     <loc>https://dishubnyakova.github.io/ru/post/8post/</loc>

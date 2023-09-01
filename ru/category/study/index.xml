@@ -5,12 +5,53 @@
     <link>https://dishubnyakova.github.io/ru/category/study/</link>
       <atom:link href="https://dishubnyakova.github.io/ru/category/study/index.xml" rel="self" type="application/rss+xml" />
     <description>study</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dishubnyakova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>study</title>
       <link>https://dishubnyakova.github.io/ru/category/study/</link>
     </image>
+    
+    <item>
+      <title>Язык программирования Python.</title>
+      <link>https://dishubnyakova.github.io/ru/post/10post/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://dishubnyakova.github.io/ru/post/10post/</guid>
+      <description>&lt;h2 id=&#34;python--это-язык-программирования-который-широко-используется-в-интернет-приложениях-разработке-программного-обеспечения-науке-о-данных-и-машинном-обучении-ml-разработчики-используют-python-потому-что-он-эффективен-прост-в-изучении-и-работает-на-разных-платформах&#34;&gt;Python — это язык программирования, который широко используется в интернет-приложениях, разработке программного обеспечения, науке о данных и машинном обучении (ML). Разработчики используют Python, потому что он эффективен, прост в изучении и работает на разных платформах.&lt;/h2&gt;
+&lt;p&gt;Задумка по реализации языка появилась в конце 1980-х годов, а разработка его реализации началась в 1989 году сотрудником голландского института CWI Гвидо ван Россумом. Для распределённой операционной системы Amoeba требовался расширяемый скриптовый язык, и Гвидо начал разрабатывать Python на досуге, позаимствовав некоторые наработки для языка ABC (Гвидо участвовал в разработке этого языка, ориентированного на обучение программированию). В феврале 1991 года Гвидо опубликовал исходный текст в группе новостей alt.sources. С самого начала Python проектировался как объектно-ориентированный язык.&lt;/p&gt;
+&lt;p&gt;##Преимущества &lt;strong&gt;Python&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Разработчики могут легко читать и понимать программы на Python, поскольку язык имеет базовый синтаксис, похожий на синтаксис английского.&lt;/li&gt;
+&lt;li&gt;Python помогает разработчикам быть более продуктивными, поскольку они могут писать программы на Python, используя меньше строк кода, чем в других языках.&lt;/li&gt;
+&lt;li&gt;Python имеет большую стандартную библиотеку, содержащую многократно используемые коды практически для любой задачи. В результате разработчикам не требуется писать код с нуля.&lt;/li&gt;
+&lt;li&gt;Разработчики могут легко сочетать Python с другими популярными языками программирования: Java, C и C++.&lt;/li&gt;
+&lt;li&gt;Активное сообщество Python состоит из миллионов поддерживающих разработчиков со всего мира. При возникновении проблем сообщество поможет в их решении.&lt;/li&gt;
+&lt;li&gt;Кроме того, в Интернете доступно множество полезных ресурсов для изучения Python. Например, вы можете легко найти видеоролики, учебные пособия, документацию и руководства для разработчиков.&lt;/li&gt;
+&lt;li&gt;Python можно переносить на различные операционные системы: Windows, macOS, Linux и Unix.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;10post/featured.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Языки научного программирования.</title>
