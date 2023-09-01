@@ -5,12 +5,47 @@
     <link>https://example.com/tag/flowers/</link>
       <atom:link href="https://example.com/tag/flowers/index.xml" rel="self" type="application/rss+xml" />
     <description>flowers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>flowers</title>
       <link>https://example.com/tag/flowers/</link>
     </image>
+    
+    <item>
+      <title>День 4.</title>
+      <link>https://example.com/post/7post/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/7post/</guid>
+      <description>&lt;p&gt;Что ж начнем, пожалуй, с моего любимого уютного ресторанного кластера в центре Москвы, где, собственно, и была сделана фотография этого поста. Это местечко — «Особняк 2/1» в Трёхсвятительском переулке на «Китай-городе». Прямо на входе встречает инсталляция с дисковыми телефонами, старым телевизором и цветами, освещенными сиреневыми лампами. Еще там можно попросить крутые стикеры! Внутри несколько комнат, в каждой из которых находятся различные кафе: от грузинской кухни до кондитерской. В последней комнате, где располагается бар «Аренда», есть замечательная веранда. Интерьер оформлен в духе коммунальной советской квартиры, что придает данному заведению невероятного шарма. Крайне рекомендую к посещению и уверена, что не пожалеете!&lt;/p&gt;
+&lt;h2 id=&#34;к-сожалению-зеленых-ресторанов-в-москве-я-посетила-не-так-много-но-кое-что-могу-посоветовать&#34;&gt;К сожалению, «зеленых» ресторанов в Москве я посетила не так много, но кое-что могу посоветовать:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Ресторан «Sempre»&lt;/strong&gt;. Один из любимейших уголков в Москве с изумительным интерьером бельгийского дизайнера Гюста Семпре. Вечно зеленый сад с таинственными лианами, свисающими с потолка. Цены приемлемые для столицы. От себя рекомендую вкуснейшие пиццы и поке с лососем, эдамаме и чукой.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ресторан «The Сад».&lt;/strong&gt; Название говорит само за себя. Сад из субтропический растений в спокойной обстановке лофта. Цены выше среднего, поэтому советую заходить туда на кофе с десертом, чтобы оценить прекрасную зеленую атмосферу данного заведения.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;7post/featured.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>День 3.</title>
