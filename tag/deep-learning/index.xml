@@ -5,7 +5,7 @@
     <link>https://dishubnyakova.github.io/tag/deep-learning/</link>
       <atom:link href="https://dishubnyakova.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dishubnyakova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
-      <title>Введение в C&#43;&#43;.</title>
+      <title>Прохождение курса по Информационной Безопасности.</title>
       <link>https://dishubnyakova.github.io/project/example/</link>
-      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       <guid>https://dishubnyakova.github.io/project/example/</guid>
-      <description>&lt;p&gt;
+      <description>&lt;p&gt;В рамках дисциплины &amp;ldquo;Основы информационной безопасности&amp;rdquo;, которую я осваиваю на программе &amp;ldquo;Компьютерные и информационные науки&amp;rdquo; в Российском Университете Дружбы Народов, мною был пройден внешний курс, где были затронуты важные и актуальные аспекты кибербезопасности. Курс разделен на три блока:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Безопасность в сети&lt;/li&gt;
+&lt;li&gt;Защита ПК/телефона&lt;/li&gt;
+&lt;li&gt;Криптография на практике&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Кибербезопасность (ее иногда называют компьютерной безопасностью) – это совокупность методов и практик защиты от атак злоумышленников для компьютеров, серверов, мобильных устройств, электронных систем, сетей и данных. Кибербезопасность находит применение в самых разных областях, от бизнес-сферы до мобильных технологий. В этом направлении можно выделить несколько основных категорий.
+Актуальность изучения развития и применения кибербезопасности в сфере информационных технологий очевидна. Она помогает защитить нашу цифровую жизнь и обеспечить безопасность пользователей, организаций и государств.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Здесь&lt;/a&gt; можно ознакомиться с моими результатами по этому курсу.
+А &lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;здесь&lt;/a&gt; находится репозиторий, в котором лежат три оформленных по шаблону отчета на каждую из тем курса.
+
 
 
 
@@ -35,7 +45,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;example/featured.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;example/featured.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
