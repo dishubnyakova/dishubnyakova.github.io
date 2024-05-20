@@ -33,10 +33,30 @@
     <loc>https://dishubnyakova.github.io/tag/deep-learning/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://dishubnyakova.github.io/ru/tag/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://dishubnyakova.github.io/tag/deep-learning/"
+                />
   </url><url>
     <loc>https://dishubnyakova.github.io/project/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://dishubnyakova.github.io/ru/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://dishubnyakova.github.io/project/"
+                />
   </url><url>
     <loc>https://dishubnyakova.github.io/tags/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
@@ -55,6 +75,16 @@
     <loc>https://dishubnyakova.github.io/project/example/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://dishubnyakova.github.io/ru/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://dishubnyakova.github.io/project/example/"
+                />
   </url><url>
     <loc>https://dishubnyakova.github.io/categories/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
